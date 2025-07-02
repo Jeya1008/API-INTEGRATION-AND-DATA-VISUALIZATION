@@ -37,5 +37,6 @@ Matplotlib & Seaborn: Used for creating clean, professional bar charts.
 OpenWeatherMap API: Public API used to retrieve real-time weather data.
 
 OUTPUT : 
+![Alt text](https://github.com/Jeya1008/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-3194470778
+)
 
-https://github.com/Jeya1008/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-3194470778
